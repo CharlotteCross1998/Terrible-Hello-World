@@ -24,16 +24,4 @@ int main()
 		}
 		rfile.close();
 	}
-	/*
-		Read every character of a random processes's memory until it adds up to hello world
-	*/
-	{
-		
-	}
-	/*
-		Read random characters of random files in random places on a system until it adds up to hello world
-	*/
-	{
-		
-	}
 }
